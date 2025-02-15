@@ -13,5 +13,5 @@ This project simulates an insurance system where policyholders can register, pur
 
 
 
-# BAN6420_MODULE3_Assignment
+# BAN6420_Milestone_Assignment1
 PRINCE NSIDIBE
